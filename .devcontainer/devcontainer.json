@@ -1,0 +1,12 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+  },
+  "prtsAttributes": {
+    "5173": {
+      "label": "Vite port",
+      "0nAutoForward": "openPreview"
+    }
+  },
+  "forwardPorts": [5173]
+}
